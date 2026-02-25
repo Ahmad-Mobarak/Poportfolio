@@ -23,7 +23,7 @@
 
 /* Hero Style */
 .cta-btn--hero {
-  @include supportColorForIE11();
+  color: $white-color;
   border-width: 1px;
   border-style: solid;
   border-radius: 4px;
@@ -51,12 +51,12 @@
   }
 
   &:hover {
-    -webkit-text-fill-color: $bg-darker;
+    color: $bg-darker;
     text-decoration: none;
     border-color: transparent;
 
     @include respond(phone) {
-      -webkit-text-fill-color: $bg-darker;
+      color: $bg-darker;
     }
 
     &::after {
