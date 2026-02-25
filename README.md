@@ -6,6 +6,9 @@ Cyber Security professional specializing in the intersection of offensive securi
 
 I leverage technologies like IoT and Computer Vision to build proactive defense mechanisms for real-world environments. From executing rigorous red-team simulations and analyzing advanced malware to automating defensive operations with Python, I deliver robust, forward-thinking security frameworks tailored for modern threat landscapes.
 
+### 🌐 Live View
+[Live view](https://ahmedmobarak.netlify.app/)
+
 ### 🎓 Education & Training
 - **Digital Egypt Pioneers Initiative (DEPI)** - *Scholar (Ongoing)*
 - **National Telecommunication Institute (NTI)** - *Network Security Trainee (June 2025 – July 2025)*
