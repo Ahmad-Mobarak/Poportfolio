@@ -24,38 +24,26 @@
 /* Hero Style */
 .cta-btn--hero {
   @include supportColorForIE11();
-  border-width: 2px;
+  border-width: 1px;
   border-style: solid;
-  -moz-border-image: -moz-linear-gradient(135deg,
-      $primary-color 0%,
-      $secondary-color 100%);
-  -webkit-border-image: -webkit-linear-gradient(135deg,
-      $primary-color 0%,
-      $secondary-color 100%);
-  border-image: linear-gradient(135deg,
-      $primary-color 0%,
-      $secondary-color 100%);
-  -webkit-border-image-slice: 1;
-  border-image-slice: 1;
-
-  @include supportIE11() {
-    color: $secondary-color !important;
-
-    &:hover {
-      color: $white-color !important;
-    }
-  }
+  border-radius: 4px;
+  border-color: rgba(0, 205, 172, 0.3);
+  /* Subtle primary tint */
+  background: rgba(22, 27, 34, 0.6);
+  /* Glassmorphism approach */
+  backdrop-filter: blur(10px);
 
   @include respond(phone) {
-    background-image: none;
-    border: 2px solid $secondary-color;
+    background: transparent;
+    border: 1px solid $secondary-color;
     -webkit-text-fill-color: $secondary-color;
   }
 
   &::after {
     background-image: linear-gradient(135deg,
-        $primary-color 0%,
-        $secondary-color 100%);
+        rgba(0, 205, 172, 1) 0%,
+        rgba(0, 164, 138, 1) 100%);
+    border-radius: 3px;
 
     @include respond(phone) {
       background-image: none;
@@ -65,6 +53,7 @@
   &:hover {
     -webkit-text-fill-color: $bg-darker;
     text-decoration: none;
+    border-color: transparent;
 
     @include respond(phone) {
       -webkit-text-fill-color: $bg-darker;
@@ -78,16 +67,19 @@
 
 /* Resume Style */
 .cta-btn--resume {
-  color: $dark-blue-text;
-  border: 2px solid $dark-blue-text;
+  color: $primary-color;
+  border: 1px solid rgba(0, 205, 172, 0.4);
+  border-radius: 4px;
 
   &::after {
-    background: $dark-blue-text;
+    background: $primary-color;
+    border-radius: 3px;
   }
 
   &:hover {
     color: $bg-darker;
     text-decoration: none;
+    border-color: transparent;
 
     &::after {
       width: 100%;

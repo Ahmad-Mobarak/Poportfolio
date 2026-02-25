@@ -1,16 +1,20 @@
 // COLORS
-$primary-color: #00ff41;
-$secondary-color: #008f11;
+$primary-color: #00cdac;
+$secondary-color: #00a48a;
 
-$white-color: #fff;
+$white-color: #E6EDF3;
 
-$bg-color: #0a0a0a;
-$bg-darker: #020202;
+$bg-color: #161B22;   // elegant slightly lighter background for cards/sections
+$bg-darker: #0D1117;  // elegant deep navy background
 
-$dark-grey: #333333;
-$light-grey: #d2d2d2;
+$dark-grey: #8B949E;
+$light-grey: #484F58;
 
-$dark-blue-text: #00ff41; // For Headings
+$dark-blue-text: #E6EDF3; // For Headings
+
+// Typography
+$font-family-headings: "Outfit", sans-serif;
+$font-family-body: "Inter", sans-serif;
 
 // FONT SIZE
 $default-font-size: 1.6rem;
