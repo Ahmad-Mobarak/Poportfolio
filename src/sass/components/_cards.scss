@@ -1,6 +1,9 @@
+.skill-card {
+    height: 100%;
+}
+
 .skill-card,
 .edu-card {
-    height: 100%;
     background: rgba(22, 27, 34, 0.6);
     /* Glassmorphism approach - matches buttons */
     backdrop-filter: blur(10px);
@@ -20,4 +23,6 @@
 /* Specific override for Education border-left layout */
 .border-left.edu-card {
     border-left: 4px solid $primary-color !important;
+    margin-bottom: 2rem;
+    /* Ensure spacing between multiple cards */
 }
