@@ -358,3 +358,23 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments 🎁
 
 I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to [ZTM Community](https://github.com/zero-to-mastery) and [Andrei](https://github.com/aneagoie)
+
+
+🌟 About Me
+🎓 Currently a scholar at the Digital Egypt Pioneers Initiative (DEPI).
+🔍 Focused on Penetration Testing, Network Security, and Embedded Systems.
+🛠 Experienced in Metasploit, Nmap, Snort, and Python automation.
+🧪 Integrating Computer Vision and IoT into security contexts (OpenCV & Arduino).
+🎯 Goal: Securing Cyber-Physical Systems (CPS) and Critical Infrastructure.
+🤝 Always eager to collaborate on Red Teaming and Malware Analysis projects.
+🛠 Technical Skills
+💻 Languages & Scripting
+Python C++ Bash SQL Git
+
+🔐 Cybersecurity Operations
+Kali Linux Metasploit Nmap Burp Suite
+
+Snort Wireshark Splunk Azure Sentinel
+
+⚙️ Embedded & Libraries
+Arduino Raspberry Pi OpenCV NumPy

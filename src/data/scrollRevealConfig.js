@@ -64,4 +64,25 @@ export const targetElements = [
       origin: "bottom",
     },
   },
+  {
+    element: "#skills .row",
+    animation: {
+      delay: 500,
+      origin: window.innerWidth > 768 ? "bottom" : "bottom",
+    },
+  },
+  {
+    element: "#labs .row",
+    animation: {
+      delay: 500,
+      origin: window.innerWidth > 768 ? "bottom" : "bottom",
+    },
+  },
+  {
+    element: "#education .row",
+    animation: {
+      delay: 500,
+      origin: window.innerWidth > 768 ? "bottom" : "bottom",
+    },
+  }
 ];
