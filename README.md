@@ -1,9 +1,5 @@
 # Ahmed Mobarak | Cyber Security Specialist
 
-<h2 align="center">
-  <img src="src/assets/profile.jpg" alt="Ahmed Mobarak Profile" width="200" style="border-radius: 50%;" />
-  <br>
-</h2>
 
 ## 🌟 About Me
 Cyber Security professional specializing in the intersection of offensive security, network architecture, and embedded systems. As a DEPI Scholar and final-year student at Delta University for Science and Technology, my expertise centers on securing Critical Infrastructure and Cyber-Physical Systems (CPS).
