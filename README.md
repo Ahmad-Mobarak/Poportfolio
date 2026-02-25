@@ -6,9 +6,9 @@
 </h2>
 
 ## 🌟 About Me
-I am a final-year Cyber Security student at Delta University for Science and Technology and a current scholar at the Digital Egypt Pioneers Initiative (DEPI). My technical focus lies at the intersection of Penetration Testing, Network Security, and Embedded Systems.
+Cyber Security professional specializing in the intersection of offensive security, network architecture, and embedded systems. As a DEPI Scholar and final-year student at Delta University for Science and Technology, my expertise centers on securing Critical Infrastructure and Cyber-Physical Systems (CPS).
 
-I am deeply passionate about securing Cyber-Physical Systems (CPS) and Critical Infrastructure. By integrating technologies like Computer Vision and IoT (using OpenCV and Arduino) into security contexts, I aim to solve complex, real-world vulnerabilities. Whether I am automating tools with Python, analyzing malware behavior, or executing red-team simulations, I am always eager to collaborate on challenging security projects.
+I leverage technologies like IoT and Computer Vision to build proactive defense mechanisms for real-world environments. From executing rigorous red-team simulations and analyzing advanced malware to automating defensive operations with Python, I deliver robust, forward-thinking security frameworks tailored for modern threat landscapes.
 
 ### 🎓 Education & Training
 - **Digital Egypt Pioneers Initiative (DEPI)** - *Scholar (Ongoing)*
