@@ -39,3 +39,8 @@ I am actively seeking opportunities in Penetration Testing, Red Teaming, and Net
 
 ---
 *Template initially based on [Simplefolio](https://github.com/cobiwave/simplefolio)*
+
+## Local Development Requirements
+- **Node.js**: v20 or higher is required.
+- **Package Manager**: npm (v10+)
+To run this project locally, execute `npm install` and then `npm run start` (for development) or `npm run build` (for production).
